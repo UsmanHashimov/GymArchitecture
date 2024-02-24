@@ -2776,11 +2776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture\\GymArchitecture.csproj",
+      "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture\\GymArchitecture.csproj",
       "projectName": "GymArchitecture",
-      "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture\\GymArchitecture.csproj",
+      "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture\\GymArchitecture.csproj",
       "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture\\obj\\",
+      "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2797,11 +2797,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj": {
-              "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj"
+            "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj"
             },
-            "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj"
+            "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj"
             }
           }
         }

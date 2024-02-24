@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {}
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
         "projectName": "GymArchitecture.Domain",
-        "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
+        "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\obj\\",
+        "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj": {}
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj": {
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj",
+        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj",
         "projectName": "GymArchitecture.Application",
-        "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj",
+        "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\obj\\",
+        "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj"
+              "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj"
               },
-              "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj"
+              "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
         "projectName": "GymArchitecture.Domain",
-        "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
+        "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\obj\\",
+        "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj": {
+    "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj",
         "projectName": "GymArchitecture.Infrastructure",
-        "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\GymArchitecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +165,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj"
+              "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Domain\\GymArchitecture.Domain.csproj"
               }
             }
           }

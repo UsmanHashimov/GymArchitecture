@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hQKRLvRlCl0kitds/bot+0unMuQOiEZeiEYYPqopQWcBCDEKCINr96t5X8P4xqasYzu4kaYJHwTuQzOS/aSWxw==",
+  "dgSpecHash": "CwtmEmz/9zJtQSmFX6KeqqF3OHzFMeDGkoBoc6537pJJbwlSQolRL6yNBJl4CWhoM98eMgf29wBgL0qHsC8qxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj",
+  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture.Application\\GymArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
