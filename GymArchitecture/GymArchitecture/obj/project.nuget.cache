@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSku5QqQPfm3Sx/eV23M8WzHLOltBByhbIBnrCO1QvdCotuvVHHMFCdJkl34FPyGnpAmMlf1bY1k9t/xdqMZrA==",
+  "dgSpecHash": "AUv/Z+l5Z8d+/YcYRH3AIJzd+Y5pgDzXDtzTTxgG1WpAT/AIoHxjdfDUl2E2PqA7FHnNdzjpbv9OJq5EFYTsJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\GymArchitecture\\GymArchitecture\\GymArchitecture.csproj",
+  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\GymArchitecture\\GymArchitecture\\GymArchitecture\\GymArchitecture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

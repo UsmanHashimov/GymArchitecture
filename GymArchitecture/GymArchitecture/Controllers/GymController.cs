@@ -1,4 +1,5 @@
 ﻿using GymArchitecture.Application.Services.GymService;
+using GymArchitecture.Domain.Entities.DTOs;
 using GymArchitecture.Domain.Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,7 +17,7 @@ namespace GymArchitecture.Controllers
         }
 
         [HttpPost]
-        public async Task<string> CreateGym(Gym model)
+        public async Task<string> CreateGym([FromForm] GymDTO model)
         {
             var result = await _gymService.CreateGymAsync(model);
 
@@ -24,7 +25,7 @@ namespace GymArchitecture.Controllers
         }
 
         [HttpPut]
-        public async Task<string> UpdateGym(int id, Gym gym)
+        public async Task<string> UpdateGym(int id,[FromForm] GymDTO gym)
         {
             var result = await _gymService.UpdateGymAsync(id, gym);
 

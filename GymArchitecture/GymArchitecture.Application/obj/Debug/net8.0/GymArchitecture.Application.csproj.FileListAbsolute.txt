@@ -15,3 +15,21 @@ C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\GymArchitecture\GymArchitect
 C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\refint\GymArchitecture.Application.dll
 C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.pdb
 C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\ref\GymArchitecture.Application.dll
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Application.deps.json
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Application.dll
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Application.pdb
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Domain.dll
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Infrastructure.dll
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Domain.pdb
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\bin\Debug\net8.0\GymArchitecture.Infrastructure.pdb
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.sourcelink.json
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchi.CAAFF23B.Up2Date
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.dll
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\refint\GymArchitecture.Application.dll
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\GymArchitecture.Application.pdb
+C:\Users\A C E R   N I T R O\OneDrive\Документы\GitHub\GymArchitecture\GymArchitecture\GymArchitecture.Application\obj\Debug\net8.0\ref\GymArchitecture.Application.dll

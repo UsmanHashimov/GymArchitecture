@@ -1,4 +1,5 @@
-﻿using GymArchitecture.Domain.Entities.Models;
+﻿using GymArchitecture.Domain.Entities.DTOs;
+using GymArchitecture.Domain.Entities.Models;
 using GymArchitecture.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,15 +12,22 @@ namespace GymArchitecture.Application.Services.GymService
         {
             _context = context;
         }
-        public async Task<string> CreateGymAsync(Gym model)
+        public async Task<string> CreateGymAsync(GymDTO model)
         {
-            await _context.Gyms.AddAsync(model);
+            var updatedModel = new Gym()
+            {
+                name = model.name,
+                description = model.description,
+                location = model.location,
+                rating = model.rating
+            };
+            await _context.Gyms.AddAsync(updatedModel);
             await _context.SaveChangesAsync();
 
             return "Malumot Yaratildi";
         }
 
-        public async Task<string> UpdateGymAsync(int id, Gym gym)
+        public async Task<string> UpdateGymAsync(int id, GymDTO gym)
         {
             var gymToUpdate = await _context.Gyms.FindAsync(id);
             if (gymToUpdate == null)
